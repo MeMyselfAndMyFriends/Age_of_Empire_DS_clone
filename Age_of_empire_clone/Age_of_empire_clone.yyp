@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "68ca6707-25e9-49d4-a942-192c4f67a9de",
+            "Value": {
+                "id": "55f0cffc-621b-4703-ba67-756c1c2e6ada",
+                "resourcePath": "objects\\obj_tile_stone\\obj_tile_stone.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6e180f1d-fed8-4490-b54e-227f6dbba59a",
             "Value": {
                 "id": "9c82fa42-d7ea-4391-8998-71e0c1c7d2ef",
@@ -132,6 +140,14 @@
                 "id": "260c8ddb-e6c0-4417-928d-24c17956bfb8",
                 "resourcePath": "views\\781517cc-a687-4150-bf57-8966007e3703.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "78eeb0b5-af0e-4e1a-98aa-8199e4717bec",
+            "Value": {
+                "id": "6660f309-050b-4187-b8a4-ccecf3d5ec78",
+                "resourcePath": "sprites\\spr_tile_stone\\spr_tile_stone.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
