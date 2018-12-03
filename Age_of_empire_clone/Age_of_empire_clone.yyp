@@ -111,6 +111,22 @@
             }
         },
         {
+            "Key": "6e180f1d-fed8-4490-b54e-227f6dbba59a",
+            "Value": {
+                "id": "9c82fa42-d7ea-4391-8998-71e0c1c7d2ef",
+                "resourcePath": "views\\6e180f1d-fed8-4490-b54e-227f6dbba59a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "76dab217-9267-42f2-8034-b1e2f56acf72",
+            "Value": {
+                "id": "e62fcfe2-91b4-4685-8280-5012e05b377a",
+                "resourcePath": "views\\76dab217-9267-42f2-8034-b1e2f56acf72.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "781517cc-a687-4150-bf57-8966007e3703",
             "Value": {
                 "id": "260c8ddb-e6c0-4417-928d-24c17956bfb8",
@@ -124,6 +140,22 @@
                 "id": "a80d2d68-7c56-4560-b996-397cb66e2ee9",
                 "resourcePath": "views\\7e33c1de-c492-4c8b-9e5c-d528e1182611.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "809e4276-6a3b-40d4-8156-d0457218968a",
+            "Value": {
+                "id": "7b471a9c-f851-4b48-a53a-08fdd43e6f23",
+                "resourcePath": "objects\\obj_tile_grass\\obj_tile_grass.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8b192428-7071-4efc-840a-8bd89b59519f",
+            "Value": {
+                "id": "cfdf4975-484e-4003-aeb1-6f2f96da64b8",
+                "resourcePath": "sprites\\spr_tile_grass\\spr_tile_grass.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
