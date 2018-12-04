@@ -159,14 +159,6 @@
             }
         },
         {
-            "Key": "78eeb0b5-af0e-4e1a-98aa-8199e4717bec",
-            "Value": {
-                "id": "6660f309-050b-4187-b8a4-ccecf3d5ec78",
-                "resourcePath": "sprites\\spr_tile_stone\\spr_tile_stone.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "7e33c1de-c492-4c8b-9e5c-d528e1182611",
             "Value": {
                 "id": "a80d2d68-7c56-4560-b996-397cb66e2ee9",
