@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "3796c15d-a59b-4982-9d40-e18b74e6b085",
+            "Value": {
+                "id": "5edacf71-50dc-4bbd-b97e-0c277e2c9c9b",
+                "resourcePath": "views\\3796c15d-a59b-4982-9d40-e18b74e6b085.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "3f86870f-a57d-4b03-9d6b-85b71f4d6768",
             "Value": {
                 "id": "4db15988-f4cf-49f0-abfa-a3ae9e554f2e",
@@ -111,6 +119,14 @@
             }
         },
         {
+            "Key": "68ca6707-25e9-49d4-a942-192c4f67a9de",
+            "Value": {
+                "id": "55f0cffc-621b-4703-ba67-756c1c2e6ada",
+                "resourcePath": "objects\\obj_tile_stone\\obj_tile_stone.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6e180f1d-fed8-4490-b54e-227f6dbba59a",
             "Value": {
                 "id": "9c82fa42-d7ea-4391-8998-71e0c1c7d2ef",
@@ -127,11 +143,27 @@
             }
         },
         {
+            "Key": "78002be5-a459-4fa7-af4c-97059a712fa2",
+            "Value": {
+                "id": "984cc337-eb5e-4c80-9313-4dacba2c3f0c",
+                "resourcePath": "views\\78002be5-a459-4fa7-af4c-97059a712fa2.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "781517cc-a687-4150-bf57-8966007e3703",
             "Value": {
                 "id": "260c8ddb-e6c0-4417-928d-24c17956bfb8",
                 "resourcePath": "views\\781517cc-a687-4150-bf57-8966007e3703.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "78eeb0b5-af0e-4e1a-98aa-8199e4717bec",
+            "Value": {
+                "id": "6660f309-050b-4187-b8a4-ccecf3d5ec78",
+                "resourcePath": "sprites\\spr_tile_stone\\spr_tile_stone.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -167,6 +199,14 @@
             }
         },
         {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "eeb1c4c3-bfb7-4274-9a45-e8002e16c263",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
             "Key": "ade77eb6-a85e-46ab-8a5b-1e81ae21d1db",
             "Value": {
                 "id": "3bd59c81-89d8-47fc-8bac-5eaaac6a68b1",
@@ -199,11 +239,35 @@
             }
         },
         {
+            "Key": "d54b82c4-3259-44f3-b9ee-126310de9386",
+            "Value": {
+                "id": "948dc29c-7e41-4929-8df2-c8535eb42d2f",
+                "resourcePath": "views\\d54b82c4-3259-44f3-b9ee-126310de9386.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "d9a8140d-5031-4639-9847-a048317b0c93",
             "Value": {
                 "id": "49e9ea60-5a87-4791-a4ef-80f48e6cc43c",
                 "resourcePath": "views\\d9a8140d-5031-4639-9847-a048317b0c93.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "decaff9e-25e9-42d8-9239-00fa382e3370",
+            "Value": {
+                "id": "0fa2ab0a-7f61-4d5f-ab0e-78529344ce12",
+                "resourcePath": "views\\decaff9e-25e9-42d8-9239-00fa382e3370.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "cb98debc-ac56-4236-9253-a26b7b1fe7a1",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
             }
         }
     ],
